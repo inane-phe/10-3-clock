@@ -17,3 +17,13 @@ C:\Users\ls990\Downloads\10-3-clock-main\10-3-clock-main\clock\11111126\obj\Debu
 C:\Users\ls990\Downloads\10-3-clock-main\10-3-clock-main\clock\11111126\obj\Debug\_11111126.Properties.Resources.resources
 C:\Users\ls990\Downloads\10-3-clock-main\10-3-clock-main\clock\11111126\obj\Debug\11111126.csproj.GenerateResource.cache
 C:\Users\ls990\Downloads\10-3-clock-main\10-3-clock-main\clock\11111126\obj\Debug\11111126.csproj.CoreCompileInputs.cache
+C:\Users\ls990\Downloads\10-3-clock-main\10-3-clock-main\clock-2\11111126\bin\Debug\11111126.exe.config
+C:\Users\ls990\Downloads\10-3-clock-main\10-3-clock-main\clock-2\11111126\bin\Debug\11111126.exe
+C:\Users\ls990\Downloads\10-3-clock-main\10-3-clock-main\clock-2\11111126\bin\Debug\11111126.pdb
+C:\Users\ls990\Downloads\10-3-clock-main\10-3-clock-main\clock-2\11111126\obj\Debug\11111126.csproj.AssemblyReference.cache
+C:\Users\ls990\Downloads\10-3-clock-main\10-3-clock-main\clock-2\11111126\obj\Debug\_11111126.Form1.resources
+C:\Users\ls990\Downloads\10-3-clock-main\10-3-clock-main\clock-2\11111126\obj\Debug\_11111126.Properties.Resources.resources
+C:\Users\ls990\Downloads\10-3-clock-main\10-3-clock-main\clock-2\11111126\obj\Debug\11111126.csproj.GenerateResource.cache
+C:\Users\ls990\Downloads\10-3-clock-main\10-3-clock-main\clock-2\11111126\obj\Debug\11111126.csproj.CoreCompileInputs.cache
+C:\Users\ls990\Downloads\10-3-clock-main\10-3-clock-main\clock-2\11111126\obj\Debug\11111126.exe
+C:\Users\ls990\Downloads\10-3-clock-main\10-3-clock-main\clock-2\11111126\obj\Debug\11111126.pdb
